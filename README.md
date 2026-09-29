@@ -2,40 +2,32 @@
 
 This repository contains the original portfolio website created before the current Apex Code Studio portfolio.
 
-It is **not the primary Apex Code Studio portfolio**.
+It is kept as a record of the earlier portfolio and is **not the primary Apex Code Studio website**.
 
-## Current portfolio
+## Current Apex Code Studio Portfolio
 
-The current and canonical portfolio for Apex Code Studio is:
+The current and canonical portfolio is:
 
-https://portfolio.apexcodestudio.store/
+**https://portfolio.apexcodestudio.store/**
 
-Use the current portfolio for:
+For the current studio work, services, projects, digital products, and case studies, use the portfolio above.
 
-- Apex Code Studio information
-- Selected projects and case studies
-- Services
-- Digital products and website kits
-- Current studio work
+## About This Repository
 
-## About this repository
+This repository represents an earlier stage of the work and remains available as part of the development history.
 
-This repository is retained as the original portfolio project and historical record. It should not be treated as the canonical source for the current Apex Code Studio website or brand presentation.
-
-For the current studio identity and work, visit:
-
-https://portfolio.apexcodestudio.store/
+The code here is not the source of truth for the current Apex Code Studio brand, portfolio content, or studio presentation.
 
 ## Founder
 
-Akanni Sultan Boluwatife
+**Akanni Sultan Boluwatife**
 
 Founder, Apex Code Studio · Full-Stack Developer · Product Builder
 
-GitHub: https://github.com/Kingbolyn  
-LinkedIn: https://linkedin.com/in/akanni-sultan-developer  
-Apex Code Studio: https://portfolio.apexcodestudio.store/
+- GitHub: https://github.com/Kingbolyn
+- LinkedIn: https://linkedin.com/in/akanni-sultan-developer
+- Apex Code Studio: https://portfolio.apexcodestudio.store/
 
 ---
 
-Legacy portfolio repository · Apex Code Studio
+**Legacy portfolio repository · Apex Code Studio**
