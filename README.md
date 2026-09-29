@@ -1,55 +1,41 @@
-# Akanni Sultan Boluwatife
+# Legacy Portfolio
 
-**Founder, Apex Code Studio · Full-Stack Developer · Product Builder**
+This repository contains the original portfolio website created before the current Apex Code Studio portfolio.
 
-I build digital products and real-world web solutions while studying Computer Science at the Federal University of Technology, Akure.
+It is **not the primary Apex Code Studio portfolio**.
 
-## Apex Code Studio
+## Current portfolio
 
-**Apex Code Studio** is a digital studio focused on building immersive, practical digital experiences for businesses, brands, and products.
+The current and canonical portfolio for Apex Code Studio is:
 
-Portfolio: https://portfolio.apexcodestudio.store/
+https://portfolio.apexcodestudio.store/
 
-The work spans:
+Use the current portfolio for:
 
-- Full-stack web applications
-- Business websites and e-commerce
-- SaaS and fintech interfaces
-- Product systems and dashboards
-- Backend APIs and databases
-- SEO and performance
-- Digital products and reusable website systems
+- Apex Code Studio information
+- Selected projects and case studies
+- Services
+- Digital products and website kits
+- Current studio work
 
-## Selected work
+## About this repository
 
-- **WeFord Enterprise** — e-commerce experience for a laptop business
-- **Velora** — luxury fashion platform
-- **Vitalis Botanicals** — wellness and e-commerce experience
-- **Bolyn's Hub** — multi-brand commerce platform
-- **Paylio** — fintech/payment product concept
-- **Skolzy** — fintech/trading product interface
-- **CasaNova** — real-estate platform in development
-- **Orbit Creative Agency** — agency platform in development
+This repository is retained as the original portfolio project and historical record. It should not be treated as the canonical source for the current Apex Code Studio website or brand presentation.
 
-More work: https://portfolio.apexcodestudio.store/
+For the current studio identity and work, visit:
 
-## Technology
+https://portfolio.apexcodestudio.store/
 
-Next.js · React · TypeScript · JavaScript · Tailwind CSS · Prisma · Supabase · PostgreSQL · Node.js · Vercel
+## Founder
 
-## How I build
+Akanni Sultan Boluwatife
 
-The goal is not to build software for its own sake.
+Founder, Apex Code Studio · Full-Stack Developer · Product Builder
 
-I focus on understanding the problem, designing the experience, engineering the system, and turning the result into something that can work in the real world.
-
-## Connect
-
-- Apex Code Studio: https://portfolio.apexcodestudio.store/
-- LinkedIn: https://linkedin.com/in/akanni-sultan-developer
-- X: https://x.com/apexcodestudio
-- GitHub: https://github.com/Kingbolyn
+GitHub: https://github.com/Kingbolyn  
+LinkedIn: https://linkedin.com/in/akanni-sultan-developer  
+Apex Code Studio: https://portfolio.apexcodestudio.store/
 
 ---
 
-Built by Akanni Sultan Boluwatife · Apex Code Studio
+Legacy portfolio repository · Apex Code Studio
